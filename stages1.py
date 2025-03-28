@@ -1,0 +1,2 @@
+print ("Stages assignment")
+
